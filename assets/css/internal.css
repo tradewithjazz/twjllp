@@ -1,0 +1,130 @@
+.faq {
+  background-color: #ecf0f1;
+}
+/* .accordion-button{
+    transform: rotate(45deg);
+} */
+
+.navbar {
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+}
+.loginbtn {
+  border-radius: 5px;
+}
+
+@media only screen and (max-width: 768px) {
+  .mobform1 {
+    display: none !important;
+  }
+
+  .fintechcover {
+    height: 200px;
+  }
+  .bullpoints {
+    font-size: 10px;
+  }
+
+  .display-6 {
+    font-size: 24px;
+  }
+}
+
+.nav-pills.nav-tabs-line .nav-link.active {
+  color: #ffffff;
+  background-color: #fd7e14;
+}
+
+.nav-pills.nav-tabs-line .nav-link {
+  border: transparent;
+  color: black;
+}
+
+.growfont {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  letter-spacing: 2%;
+  color: #5e6373;
+}
+.spangreen {
+  color: #37936d;
+}
+
+.titlefonts {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.titleheaders {
+  font-size: 32px;
+  line-height: 48px;
+  letter-spacing: 2%;
+  font-weight: 600;
+}
+
+.blogfont {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 27px;
+  letter-spacing: 2%;
+  color: #494d5a;
+}
+.assetbadge {
+  margin-bottom: -15px;
+}
+
+.badgetext {
+  font-size: 12px !important;
+  line-height: 18px !important;
+  letter-spacing: 2% !important;
+  border-radius: 20px !important;
+}
+
+.assetname {
+  color: #5e6373;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: 2%;
+}
+
+.assetbg {
+  background-color: #35364d29;
+  border-radius: 5px;
+}
+
+.assetrating {
+  color: #37936d;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: 2%;
+}
+
+.assetcolor {
+  color: #d06e6e;
+}
+
+.assetunits {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 2%;
+}
+
+.footerlogo {
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 2%;
+  color: white;
+}
+
+.footerbg {
+  background-color: #37916c;
+}
+
+.textwhite {
+  color: white;
+}
